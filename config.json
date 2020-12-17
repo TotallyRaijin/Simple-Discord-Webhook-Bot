@@ -1,0 +1,4 @@
+{
+	"token": "", // Your bot's token, which can be found in the developers' portal
+  "clientsecret": "" // Your bot's client secret, which can be found in the developers' portal
+}
