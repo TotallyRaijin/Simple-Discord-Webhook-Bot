@@ -14,5 +14,7 @@ client.on('message', msg => {
   if (msg.content.startsWith('!sendtowebhook') {
       var msgcontent = message.content.substr("!sendtowebhook ".length);
       hook.send(msgcontent);
-  },
-};
+  }
+});
+
+client.login(token)
